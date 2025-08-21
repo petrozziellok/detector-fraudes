@@ -2,3 +2,4 @@
 
 Projeto de Machine Learning para detecção de fraudes utilizando Random Forest. 
 Dashboard interativo em Streamlit com upload de CSV, insights e gráfico de probabilidades.
+ DATASET: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
